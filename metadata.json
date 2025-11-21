@@ -1,5 +1,5 @@
 {
-  "name": "AltaFog",
+  "name": "Unfog",
   "description": "A native-feeling iOS-style explorer app that tracks your movement and altitude, revealing the world as you travel.",
   "requestFramePermissions": [
     "geolocation"
